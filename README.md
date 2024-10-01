@@ -10,6 +10,10 @@ This Data Analysis project aims to generate insight into the sales performance o
 The primary source of Data used here is Data Sale_over and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED any other data repository site.
 
 ### Tools used
-- Microsoft Excel for Data Cleaning, Analysis and Visualisation
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+    1. For Data Cleaning
+    2. For Analysis
+    3. For Data Visualisation
+      
 - SQL - Structured Query Language for querying of data
 - Github for Portfolio building
