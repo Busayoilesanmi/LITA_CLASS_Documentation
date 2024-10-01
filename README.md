@@ -2,6 +2,20 @@
 
 ## Project Title: E Commerce Sales Analysis
 
+[Project Overview](project-overview)
+
+[Data Sources](data-sources)
+
+[Tools used](tools-used)
+
+[Data Cleaning and Preparations](data-cleaning-preparations)
+
+[Explanatory Data Analysis](explanatory-data-analysis)
+
+[Data Analysis](data-analysis)
+
+[Data Visualisation](data-visualisation)
+
 ### Project Overview
 _ _ _
 This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year . By analysising the various parameters in the data received.we seek to gather enough insight to make resonable decision which then enable us to tell compelling story around our data from the insight gotten and to know the best performance from our data 
