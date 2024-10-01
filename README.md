@@ -11,6 +11,7 @@ This Data Analysis project aims to generate insight into the sales performance o
 The primary source of Data used here is Data Sale_over and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED any other data repository site.
 
 ### Tools used
+- - -
 - Microsoft Excel [Download Here](https://www.microsoft.com)
     1. For Data Cleaning
     2. For Analysis
@@ -20,12 +21,14 @@ The primary source of Data used here is Data Sale_over and this is an open sourc
 - Github for Portfolio building
 
 ### Data Cleaning and Preparations
+- - -
   In the intial phase of the data cleaning and preparation, we perform the following actions;
    1. Data loading and Inspection
    2. Handling missing variables
    3. Data Cleaning and Formatting
 
 ### Explanatory Data Analysis
+- - -
   EDA involves the exploring of data to answer some Questions about the Data such as;
    1. What is the overall sales trend
    2. Which product are top seller
