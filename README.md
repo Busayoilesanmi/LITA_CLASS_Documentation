@@ -46,3 +46,6 @@ WHERE CONDITION = TRUE
 ### Data Visualisation
 ![Screenshot 2024-09-08 172056](https://github.com/user-attachments/assets/7f8702a3-124b-47d5-b38c-2d180bbe1dbc)
 
+![Screenshot 2024-09-08 190206](https://github.com/user-attachments/assets/a9848504-082a-4867-9a68-6ed187d1cf7d)
+
+
