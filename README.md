@@ -35,10 +35,14 @@ The primary source of Data used here is Data Sale_over and this is an open sourc
    3. What are the products on peak sales
 
 ### Data Analysis 
-
+- - -
 This is where we include some basic line of codes or queries or even some of the DAX expressions used during your Analysis;``
 
 ```SQL
 SELECT* FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+
+### Data Visualisation
+![Screenshot 2024-09-08 172056](https://github.com/user-attachments/assets/7f8702a3-124b-47d5-b38c-2d180bbe1dbc)
+
